@@ -1,0 +1,9 @@
+rpc_url: https://api.devnet.solana.com
+
+transfers:
+  - from_keypair: sender1.json
+    to: Hh7yL6bZC6A7s3DfFgUuG3tXYhjaHFxnbSuX9Fwz7RnM
+    amount: 0.01
+  - from_keypair: sender2.json
+    to: 5Gr1e2xYZAxovE9r9nsANw96PdNeNYFoyWjD7P5o5x4x
+    amount: 0.02
